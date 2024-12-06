@@ -1,11 +1,11 @@
-**paint-app**
+# **paint**
 This is a Paint app with some amazing features.
 
-**Overview**
+# **Overview**
 
 The Paint App is a web-based drawing application that allows users to create digital artwork directly in their browser. The app offers a simple, intuitive interface for creating, editing, and saving digital drawings. Users can select from a variety of tools, including brushes, shapes, and colors, making it ideal for both casual sketching and more detailed artwork. The Paint App is perfect for users of all ages who want an accessible way to express their creativity.
 
-**Unique Features**
+ # **Unique Features**
 
 **Drawing Tools:** A wide variety of drawing tools such shapes, allowing users to create diverse styles of artwork.
 
@@ -23,7 +23,7 @@ The Paint App is a web-based drawing application that allows users to create dig
 
 **Fill Shape:** Easily fill any closed shape with a selected color, allowing for quicker and more vibrant artwork.
 
-Technologies Used
+# **Technologies Used**
 
 **Frontend:** React, Javascript
 
@@ -41,7 +41,7 @@ Technologies Used
 
 git clone https://github.com/yourusername/paint-app.git cd paint-app
 
-**Install dependencies**
+# **Install dependencies**
 
 npm install
 
@@ -51,7 +51,7 @@ npm run dev
 
 **Open the application The app should be running at http://localhost:3000.**
 
-**Screenshots**
+# **Screenshots**
 
 **Drawing Interface**
 
@@ -59,7 +59,7 @@ npm run dev
 
 
 
-**Notable Challenges and Solutions**
+# **Notable Challenges and Solutions**
 
 **Canvas State Management:** Managing the canvas state for undo/redo functionality was challenging. We solved this by implementing a stack-based state management system, allowing users to easily revert to previous versions of their drawing.
 
